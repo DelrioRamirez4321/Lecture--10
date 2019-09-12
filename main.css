@@ -1,0 +1,10 @@
+body {
+    font-size: 20px
+}
+#ketchup > h2 {
+    color: red;
+    text-align: center;
+}
+ p {
+      text-indent: 2em
+ }
